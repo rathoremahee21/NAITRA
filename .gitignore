@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# YOLO / training outputs
+runs/
+*.pt
+
+# Large/generated data
+data/
+clips/
+
+# Videos
+videos/
+*.mp4
+*.avi
+*.mov
+
+# Environment/secrets
+.env
+
+# VS Code
+.vscode/
